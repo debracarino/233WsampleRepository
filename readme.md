@@ -10,3 +10,4 @@
 - [X] Connect local repository to remote repository
 - [X] Stage and push changes to the remote repository
 - [ ] Create documentation
+- [ ] Add .gitignore file
