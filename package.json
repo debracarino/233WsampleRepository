@@ -1,0 +1,31 @@
+{
+  "name": "233week1day2code",
+  "version": "1.0.0",
+  "description": "solution to CS 233W week 1 day 2 activity instructions",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debracarino/233WsampleRepository.git"
+  },
+  "keywords": [
+    "CS",
+    "233W",
+    "week",
+    "1",
+    "activity",
+    "solution"
+  ],
+  "author": "Debra Carino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debracarino/233WsampleRepository/issues"
+  },
+  "homepage": "https://github.com/debracarino/233WsampleRepository#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "exprss": "^0.0.1-security"
+  }
+}
